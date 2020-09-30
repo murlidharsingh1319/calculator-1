@@ -1,3 +1,4 @@
+print("Calculator, made by using python")
 # Alveyworld-dev calculator
 # Period 6
 #
@@ -195,3 +196,5 @@ if __name__ == "__main__":
                         print(last_value)
                 except:
                     print colors.FAIL+"Command failed!"+colors.ENDC
+
+		print("Thanks For Coming here")
